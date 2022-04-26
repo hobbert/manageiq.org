@@ -10,7 +10,7 @@ vSphere and OpenStack.
 
 Capabilities between providers can be different
 and evolve with time, so don’t forget to check the [support options
-document](https://manageiq.org/docs/reference/latest/doc-Managing_Providers/miq/)
+document](https://www.manageiq.org/docs/reference/latest/capabilities_matrix/index)
 
 ### Create a Google Cloud Platform account (if needed)
 
